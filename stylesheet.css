@@ -28,7 +28,7 @@ header{
 }
 
 .top-img {
-          background-image: url("IT.jpg");
+          background-image:url("IT.jpg");
           padding: 20px;
 	  height:200px;
 	  margin: 0 auto;
